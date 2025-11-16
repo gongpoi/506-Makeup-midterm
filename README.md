@@ -1,5 +1,5 @@
 # CS506 Midterm
-
+kaggle username: XG
 ## 1. Data Exploration
 
 - **Dataset structure**
